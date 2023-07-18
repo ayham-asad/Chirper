@@ -5,12 +5,10 @@
 
 # Using this app
 
-1- download this app and make sure your developing environment is set with the following:
-	 - Nodejs
-	 - composer
-2-  run your local server using the 'php artisan serv' command
-3- run the 'npm run dev command in your app directory to compile Tailwind CSS classes
-4-  navigate to 'http://127.0.0.1:8000/' on your browser and create an account to start using the app and make your first Chirp
+- download this app and make sure your developing environment is set with the following: Nodejs, composer
+-  run your local server using the 'php artisan serv' command
+- run the 'npm run dev command in your app directory to compile Tailwind CSS classes
+-  navigate to 'http://127.0.0.1:8000/' on your browser and create an account to start using the app and make your first Chirp
 
 ## Important
 - this app uses SQLite as a Database instead of MySQL because it is a small app
